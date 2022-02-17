@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "Simon I",
+    "isVaccinated": true,
+    "age": "5",
+    "test": 20
+  },
+  {
+    "id": "54820b8d-16c9-4bc2-979d-3fbe083841a1",
+    "isVaccinated": false,
+    "name": "Miord",
+    "age": "4"
+  },
+  {
+    "id": "699db990-fe8e-4a01-bb61-76a5df2f22e4",
+    "isVaccinated": true,
+    "name": "Amur",
+    "age": "3"
+  }
+]
