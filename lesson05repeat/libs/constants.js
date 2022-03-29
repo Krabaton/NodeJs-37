@@ -1,0 +1,15 @@
+const LIMIT_AGE_CAT = {
+  min: 0,
+  max: 20,
+}
+
+const HTTP_STATUS_CODE = {
+  OK: 200,
+  CREATED: 201,
+  NO_CONTENT: 204,
+  BAD_REQUEST: 400,
+  NOT_FOUND: 404,
+  INTERNAL_SERVER_ERROR: 500,
+}
+
+module.exports = { LIMIT_AGE_CAT, HTTP_STATUS_CODE }
